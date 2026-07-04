@@ -49,8 +49,6 @@ The functionalities were tested individually and in combination:
 - The servo motors move between the 0° and 90° positions with a 1s `delay`.
 - The LCD messages and the audio signal are correctly synchronized.
 
----
-
 ## Demo video
 
 https://youtu.be/CCG9btgEeA4
